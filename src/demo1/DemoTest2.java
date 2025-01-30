@@ -6,6 +6,10 @@ public static void main(String[] args) {
 	int b= 300;
 	for (int i = 0;i<b;i++) {
 		System.out.println(i);
+	
+	if (b<i){
+	System.out.println(b);	
+	}	
 	}
 }
 }
